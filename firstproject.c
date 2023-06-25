@@ -1,5 +1,7 @@
 #include<stdio.h>
 void main(){
-    printf("Hello,Welcome");
-    printf("You are in my code");
+    printf("Hello,Welcome\n");
+    printf("You are in my code\n");
+    int a=30;
+
 }
